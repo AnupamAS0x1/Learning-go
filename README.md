@@ -1,3 +1,3 @@
 # Learning-go
 
-my journey of learning GO :)
+My journey of learning GO :)
